@@ -1,3 +1,3 @@
 This is shared file.
 original text
-Modified text in feature-2
+finally merged version from both branches.
